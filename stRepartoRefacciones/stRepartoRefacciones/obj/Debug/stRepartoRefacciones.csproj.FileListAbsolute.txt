@@ -1,0 +1,23 @@
+C:\Users\René\Desktop\Proyectos\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.exe.config
+C:\Users\René\Desktop\Proyectos\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.exe
+C:\Users\René\Desktop\Proyectos\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.pdb
+C:\Users\René\Desktop\Proyectos\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\Newtonsoft.Json.dll
+C:\Users\René\Desktop\Proyectos\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\Newtonsoft.Json.xml
+C:\Users\René\Desktop\Proyectos\stRepartoRefacciones\stRepartoRefacciones\obj\Debug\stRepartoRefacciones.exe
+C:\Users\René\Desktop\Proyectos\stRepartoRefacciones\stRepartoRefacciones\obj\Debug\stRepartoRefacciones.pdb
+C:\Users\René\Desktop\Respaldo Parras (2016-12-23)\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.exe.config
+C:\Users\René\Desktop\Respaldo Parras (2016-12-23)\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.exe
+C:\Users\René\Desktop\Respaldo Parras (2016-12-23)\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.pdb
+C:\Users\René\Desktop\Respaldo Parras (2016-12-23)\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\Newtonsoft.Json.dll
+C:\Users\René\Desktop\Respaldo Parras (2016-12-23)\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\Newtonsoft.Json.xml
+C:\Users\René\Desktop\Respaldo Parras (2016-12-23)\stRepartoRefacciones\stRepartoRefacciones\obj\Debug\stRepartoRefacciones.csprojResolveAssemblyReference.cache
+C:\Users\René\Desktop\Respaldo Parras (2016-12-23)\stRepartoRefacciones\stRepartoRefacciones\obj\Debug\stRepartoRefacciones.exe
+C:\Users\René\Desktop\Respaldo Parras (2016-12-23)\stRepartoRefacciones\stRepartoRefacciones\obj\Debug\stRepartoRefacciones.pdb
+C:\Users\DevRene\Desktop\Proyectos Parras\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.exe.config
+C:\Users\DevRene\Desktop\Proyectos Parras\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.exe
+C:\Users\DevRene\Desktop\Proyectos Parras\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\stRepartoRefacciones.pdb
+C:\Users\DevRene\Desktop\Proyectos Parras\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DevRene\Desktop\Proyectos Parras\stRepartoRefacciones\stRepartoRefacciones\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DevRene\Desktop\Proyectos Parras\stRepartoRefacciones\stRepartoRefacciones\obj\Debug\stRepartoRefacciones.csprojResolveAssemblyReference.cache
+C:\Users\DevRene\Desktop\Proyectos Parras\stRepartoRefacciones\stRepartoRefacciones\obj\Debug\stRepartoRefacciones.exe
+C:\Users\DevRene\Desktop\Proyectos Parras\stRepartoRefacciones\stRepartoRefacciones\obj\Debug\stRepartoRefacciones.pdb
